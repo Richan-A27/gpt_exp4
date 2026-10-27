@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2026-10-27T17:22:08.189900",
+    "profile": {
+      "name": "Student",
+      "age": 20,
+      "field": "Computer science",
+      "interests": "AI",
+      "skill_level": "Beginner",
+      "preferred_type": "Practical",
+      "goal": "learn AI"
+    },
+    "feedback": null,
+    "recommendations": [
+      {
+        "title": "Artificial Intelligence Fundamentals",
+        "explanation": "Matches your interest in Artificial Intelligence.",
+        "match_score": 98,
+        "level": "Beginner",
+        "type": "Theoretical"
+      },
+      {
+        "title": "Machine Learning Basics",
+        "explanation": "Provides a foundation for learning AI.",
+        "match_score": 98,
+        "level": "Beginner",
+        "type": "Practical"
+      },
+      {
+        "title": "Generative AI",
+        "explanation": "Introduces modern AI and language-model concepts.",
+        "match_score": 96,
+        "level": "Intermediate",
+        "type": "Both"
+      },
+      {
+        "title": "Deep Learning Fundamentals",
+        "explanation": "Provides a natural progression after Machine Learning.",
+        "match_score": 93,
+        "level": "Intermediate",
+        "type": "Practical"
+      },
+      {
+        "title": "Computer Vision",
+        "explanation": "Introduces practical AI applications using images.",
+        "match_score": 90,
+        "level": "Intermediate",
+        "type": "Practical"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-27T17:23:28.659250",
+    "profile": {
+      "name": "Student",
+      "age": 20,
+      "field": "Computer science",
+      "interests": "AI",
+      "skill_level": "Beginner",
+      "preferred_type": "Practical",
+      "goal": "learn AI"
+    },
+    "feedback": null,
+    "recommendations": [
+      {
+        "title": "Artificial Intelligence Fundamentals",
+        "explanation": "Matches your interest in Artificial Intelligence.",
+        "match_score": 98,
+        "level": "Beginner",
+        "type": "Theoretical"
+      },
+      {
+        "title": "Machine Learning Basics",
+        "explanation": "Provides a foundation for learning AI.",
+        "match_score": 98,
+        "level": "Beginner",
+        "type": "Practical"
+      },
+      {
+        "title": "Generative AI",
+        "explanation": "Introduces modern AI and language-model concepts.",
+        "match_score": 96,
+        "level": "Intermediate",
+        "type": "Both"
+      },
+      {
+        "title": "Deep Learning Fundamentals",
+        "explanation": "Provides a natural progression after Machine Learning.",
+        "match_score": 93,
+        "level": "Intermediate",
+        "type": "Practical"
+      },
+      {
+        "title": "Computer Vision",
+        "explanation": "Introduces practical AI applications using images.",
+        "match_score": 90,
+        "level": "Intermediate",
+        "type": "Practical"
+      }
+    ]
+  }
+]
